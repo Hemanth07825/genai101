@@ -1,1 +1,2 @@
-<h1 align="center">Jackfruit-Problem-PES2UG25</h1>
+<h1 align="center">AI Poem Generator Agent</h1>
+Mini-Project for GenAI
