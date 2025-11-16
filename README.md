@@ -4,5 +4,5 @@ Mini-Project for GenAI
 ## Contributors
 Hemanth Reddy - [@Hemanth07825](https://github.com/Hemanth07825)<br>
 Aakash G - [@AakashG-1808](https://github.com/AakashG-1808)<br>
-Thenappan - []()<br>
-Atharva - []()
+Thenaphan - [@thenaphan2007](https://github.com/thenaphan2007)<br>
+Atharva - [@Atharva-ss](https://github.com/Atharva-ss)
